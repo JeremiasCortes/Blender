@@ -1,0 +1,57 @@
+			Teoría
+
+Vista estructura: Modo de visualización de solo aristas, vertices, líneas, etc...
+Vista sólida: Modo default, no incluye materiales, colores ni luces.
+Vista previsualizadora de materials: Modo de visualización donde podemos ver como quedan los materiales, incluyendo colores.
+Vista de procesado: Modo de visualización simulando proyecto final, se pueden ver los materiales, colores y como afectas las luces ya sea las dirreciones o intensidades.
+
+==============================================================================================================================================================================
+
+			Shortcuts
+
+Zoom - Rueda rodar
+Zoom suave - Ctrl + mantener rueda de mouse + mover mouse hacia arriba o abajo
+Rotar - Mantener la rueda del mouse + mover mouse hacia cualquier dirreción
+Movimiento 2D - Mantener Shift + mantener rueda el mouse + movimiento del mouse en cualquier dirrección
+Ir hacia el objeto seleccionado - Pulsar "punto" numpad
+Cambio de vistas perspectiva y ortográfica - "5" numpad
+Vista frontal - "1" numpad
+Vista trasera - Ctrl + "1" numpad
+Vista derecha - "3" numpad
+Vista izquierda - Ctrl + "3" numpad
+Vista superior - "7" numpad
+Vista inferior . "9" numpad
+Mover la vista poco a poco hacia la izquierda del objeto seleccinado - "4" numpad
+Mover la vista poco a poco hacia la derecha del objeto seleccinado - "6" numpad
+Mover la vista poco a poco hacia arriba del objeto seleccinado - "8" numpad
+Mover la vista poco a poco hacia abajo del objeto seleccinado - "2" numpad
+
+Vista previsualizadora de materiales - Mantener Z + 2
+Vista estructura - Mantener Z + 4
+Vista sólida - Mantener Z + 6
+Vista de procesado - Mantener Z + 8
+
+Para guardar nuestro archivo - Shift + Ctrl + S
+
+Agregar objetos - Shift + A
+
+Mover objeto con los 3 ejes - G
+Mover objetos en un eje exacto - G + la tecla del eje (X, Z o Y)
+Mover objeto en todos los ejes exepto uno en concreto - Shift + G + la tecla del eje (X, Z o Y)
+Mover objeto en un eje en una x cantidad exacto - G + la tecla del eje (X, Z o Y) + Cantidad de unidades.
+
+Rotar objeto con los 3 ejes - R
+Rotar objeto en un eje exacto - R + la tecla del eje (X, Z o Y)
+Rotar objeto en todos los ejes exepto uno en concreto - Shift + R + la tecla del eje (X,Z o Y)
+Rotar objeto en un grado específico - R + la tecla del eje (X, Z o Y) + Cantidad de la rotación
+
+Escalar obeto proporcionalmentente en los 3 ejes - S + mover el mouse cerca o lejos del objeto
+Escalar objeto en un solo eje - S + la tecla del eje (X, Z o Y)
+Escalar objeto en todos los ejes exepto uno en concreto -  S + Shift + la tecla del eje (X, Z o Y)
+Escalar objeto en un eje de forma precisa - S + la tecla del eje (X, Z o Y) + Cantidad de escalado (la cantidad introducida será multiplicada)
+
+Rellenar caras - F
+Juntas vertices - J
+Cuchillo - K
+Unir vertices - M
+Limpiar vertices (dos encima de uno) - M + Elegi opción de distancia
